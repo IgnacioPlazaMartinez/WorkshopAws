@@ -1,8 +1,8 @@
 {
-  "name": "githubrepository",
+  "name": "app-cdk",
   "version": "0.1.0",
   "bin": {
-    "githubrepository": "bin/githubrepository.js"
+    "app-cdk": "bin/app-cdk.js"
   },
   "scripts": {
     "build": "tsc",
